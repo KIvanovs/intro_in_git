@@ -9,6 +9,12 @@ git clone https://github.com/KIvanovs/intro_in_git.git # Lai noklonetu projektu 
 
 git add .
 git commit -m "Veiktais izmainas!"
+git push origin main
 
+git config user.name "KIvanovs"
+git config user.name "ekspanser@gmail.com"
 
 ```
+
+## Izmantotā literatūra
+Super grāmata.
